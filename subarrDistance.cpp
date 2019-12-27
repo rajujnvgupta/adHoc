@@ -1,3 +1,8 @@
+/* 	@rajujnvgupta
+	27/dec/2019
+	PROBLEM : Subarrays with distinct elements
+*/
+
 #include<bits/stdc++.h>
 #define int long long int
 using namespace std;
